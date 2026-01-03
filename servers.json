@@ -1,12 +1,22 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Miyabimc",
+		"ip": "mc.miyabimc.net",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "SyuuNet",
+		"ip": "syuu.net",
+		"type": "PC"
+	},
+	{
+		"name": "Leaf",
+		"ip": "mc.leafpvp.net",
+		"type": "PC"
+	},
+	{
+		"name": "Buri",
+		"ip": "buri.gg",
 		"type": "PC"
 	}
 ]
